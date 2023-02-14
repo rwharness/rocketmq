@@ -10,7 +10,6 @@
 
 **[Apache RocketMQ](https://rocketmq.apache.org) is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.**
 
-
 It offers a variety of features:
 
 * Messaging patterns including publish/subscribe, request/reply and streaming
